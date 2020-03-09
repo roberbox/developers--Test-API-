@@ -33,7 +33,7 @@
     "react-dom": "16.9.0",
     "styled": "^1.0.0",
     "webpack": "1.13.1",
-    "webpack-dev-server": "1.14.1"
+    "webpack-dev-server": "3.1.11"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
